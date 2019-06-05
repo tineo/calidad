@@ -1,0 +1,22 @@
+.table thead th{
+    border-bottom: none;
+}
+#disponibilidad tbody th{
+    width: 16%;
+}
+#disponibilidad tbody td{
+    width: 14%;
+    border: solid 1px #6d6d6d;
+    background-color: #cbd3ff;
+}
+#disponibilidad tbody td:hover{
+    cursor: pointer;
+    background-color: #7a7e99 !important;
+}
+
+#disponibilidad tbody td.selected{
+    background-color: #4c5064 !important;
+}
+#disponibilidad tbody td.asignado{
+    background-color: #6e8ec3;
+}

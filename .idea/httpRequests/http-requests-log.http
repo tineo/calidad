@@ -1,0 +1,8 @@
+GET http://localhost:8080/
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-05-29T110756.200.html
+
+###
+
